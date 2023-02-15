@@ -7,6 +7,7 @@
 
         if (resultat === 1) {
             console.log("siffran är ett")
+            /* Flytta bilden */
             document.getElementById("bild").innerHTML="<img src='1.png'>";
         }
 
