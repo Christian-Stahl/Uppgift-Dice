@@ -1,0 +1,18 @@
+main{
+        background: linear-gradient(to bottom, #6c7e93, #fff 60%); 
+        display: flex; 
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        height: 100vh; 
+    }
+
+    h1 {
+        font-size: xx-large;
+        padding: 30px;
+    }
+
+    #dice{ 
+        font-size: 17px;
+       margin-bottom: 20px;
+    }
